@@ -60,5 +60,6 @@ Makefile
 *.sln
 *.vcxproj*
 
-# XCode files
-*.xcodeproj
+# XCode Files
+**.xcworkspace
+**.xcodeproj
